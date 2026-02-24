@@ -1,0 +1,14 @@
+<footer>
+  {{ partialCached "social-icons.html" . }}
+  <section>
+    {{ .Site.Copyright }}
+    {{ range .Site.Menus.footer }}
+    <a {{ with .Params.rel -}}rel="{{ . }}"{{ end -}} href="{{ .URL }}">
+      {{ .Name }}
+    </a>
+    {{ end }}
+  </section>
+  <section>
+    <p>© 2026 Anders Nienstaedt - </a><a href="https://linktr.ee/andersmakes"> Contact Anders</a> - </a> <a href="https://www.instagram.com/marcelthechamp/">@marcelthechamp</a></p>
+  </section>
+</footer>
