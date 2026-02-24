@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Furniture Design on Anders Nienstaedt</title>
+    <link>//localhost:1313/furniture-design/</link>
+    <description>Recent content in Furniture Design on Anders Nienstaedt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 22:48:17 -0600</lastBuildDate><atom:link href="//localhost:1313/furniture-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Studio Design</title>
+      <link>//localhost:1313/furniture-design/art-studio-design/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:1313/furniture-design/art-studio-design/</guid>
+        <media:content url="//localhost:1313/furniture-design/art-studio-design/20161110_3d_shop_cabinet_0161_hu_7b9900353eb765fb.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/furniture-design/art-studio-design/20161110_3d_shop_cabinet_0161_hu_7b9900353eb765fb.jpg&quot; /&gt;
+          &lt;p&gt;2014-Present &lt;br&gt;&lt;br&gt;Projects for the Minneapolis College of Art and Design and St. Olaf College&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bicycle Fabrication/Design</title>
+      <link>//localhost:1313/furniture-design/bicycle-fabrication/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:1313/furniture-design/bicycle-fabrication/</guid>
+        <media:content url="//localhost:1313/furniture-design/bicycle-fabrication/IMG_0704_hu_a901749387870bd2.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/furniture-design/bicycle-fabrication/IMG_0704_hu_a901749387870bd2.JPG&quot; /&gt;
+          &lt;p&gt;2015-Present&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Chairs and Stools</title>
+      <link>//localhost:1313/furniture-design/chair-design/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:1313/furniture-design/chair-design/</guid>
+        <media:content url="//localhost:1313/furniture-design/chair-design/5_GhostChair_hu_bc5495a58bcc5e7a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/furniture-design/chair-design/5_GhostChair_hu_bc5495a58bcc5e7a.jpg&quot; /&gt;
+          &lt;p&gt;2015-Present&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

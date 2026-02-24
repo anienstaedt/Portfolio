@@ -1,0 +1,10 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Anders Nienstaedt'
+theme = 'gallery'
+pluralizelisttitles = false 
+photocount = false
+albumcount = false
+ignoreLogs = ['warning-goldmark-raw-html']
+[markup.goldmark.renderer]
+unsafe = true

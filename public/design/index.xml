@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Anders Nienstaedt</title>
+    <link>//localhost:62231/design/</link>
+    <description>Recent content in Design on Anders Nienstaedt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 22:48:17 -0600</lastBuildDate><atom:link href="//localhost:62231/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Studio Design</title>
+      <link>//localhost:62231/design/art-studio-design/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/art-studio-design/</guid>
+        <media:content url="//localhost:62231/design/art-studio-design/20161110_3d_shop_cabinet_0161_hu_7b9900353eb765fb.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/art-studio-design/20161110_3d_shop_cabinet_0161_hu_7b9900353eb765fb.jpg&quot; /&gt;
+          &lt;p&gt;2014-Present &lt;br&gt;&lt;br&gt;Projects for the Minneapolis College of Art and Design and St. Olaf College&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Bicycles</title>
+      <link>//localhost:62231/design/bicycle-fabrication/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/bicycle-fabrication/</guid>
+        <media:content url="//localhost:62231/design/bicycle-fabrication/Bike_hu_f2c398ae089ab663.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/bicycle-fabrication/Bike_hu_f2c398ae089ab663.jpg&quot; /&gt;
+          &lt;p&gt;2015-Present &lt;br&gt; Steel bicycle frame design and fabrication&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Furniture Design</title>
+      <link>//localhost:62231/design/chair-design/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/chair-design/</guid>
+        <media:content url="//localhost:62231/design/chair-design/0CardboardChair2_hu_16a4f0bc68c432fc.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/chair-design/0CardboardChair2_hu_16a4f0bc68c432fc.jpg&quot; /&gt;
+          &lt;p&gt;2015-Present&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Graphic Design</title>
+      <link>//localhost:62231/design/graphic-design/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/graphic-design/</guid>
+        <media:content url="//localhost:62231/design/graphic-design/0037077336_10-1_hu_85ed14245503b36e.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/graphic-design/0037077336_10-1_hu_85ed14245503b36e.jpg&quot; /&gt;
+          &lt;p&gt;2013-Present&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Illustrations</title>
+      <link>//localhost:62231/design/illustrations/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/illustrations/</guid>
+        <media:content url="//localhost:62231/design/illustrations/0BOBLOGColor2_hu_473e3a31a774cb8a.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/illustrations/0BOBLOGColor2_hu_473e3a31a774cb8a.jpg&quot; /&gt;
+          &lt;p&gt;2015-Present &lt;br&gt;&lt;br&gt;Publications including 89.3 The Current, Mintpress News, Isthmus, Cudighi Records, and Groove Korea&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Objects</title>
+      <link>//localhost:62231/design/objects/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/objects/</guid>
+        <media:content url="//localhost:62231/design/objects/0d5e1b81d-a79b-4108-aef0-c41f16eaa1ae.1280x1280_hu_adea7963e5bc7f79.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/objects/0d5e1b81d-a79b-4108-aef0-c41f16eaa1ae.1280x1280_hu_adea7963e5bc7f79.jpg&quot; /&gt;
+          &lt;p&gt;2015-Present&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Tangram Bookshelf</title>
+      <link>//localhost:62231/design/tangram-bookshelf/</link>
+      <pubDate>Wed, 10 Dec 2025 22:48:17 -0600</pubDate>
+      <guid>//localhost:62231/design/tangram-bookshelf/</guid>
+        <media:content url="//localhost:62231/design/tangram-bookshelf/1Tangram1_hu_31822436f81f9184.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:62231/design/tangram-bookshelf/1Tangram1_hu_31822436f81f9184.jpg&quot; /&gt;
+          &lt;p&gt;Baltic Birch Plywood - 2015 &lt;br&gt;&lt;br&gt; A reconfigurable modular bookshelf, built for the Kohler Art Library at the University of Wisconsin-Madison, with funding from the UW-Madison Division of Arts.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Narrative on Anders Nienstaedt</title>
+    <link>//localhost:51971/narrative/</link>
+    <description>Recent content in Narrative on Anders Nienstaedt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jan 2024 23:13:43 -0600</lastBuildDate><atom:link href="//localhost:51971/narrative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Sad Story About A Tree</title>
+      <link>//localhost:51971/narrative/sad-story/</link>
+      <pubDate>Wed, 10 Jan 2024 23:13:43 -0600</pubDate>
+      <guid>//localhost:51971/narrative/sad-story/</guid>
+        <media:content url="//localhost:51971/narrative/sad-story/Tree%20Movie%20Forest%20Still_hu_99a46d97413f0be9.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:51971/narrative/sad-story/Tree%20Movie%20Forest%20Still_hu_99a46d97413f0be9.png&quot; /&gt;
+          &lt;p&gt;Video Essay - 2021&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Die Leere (The Emptiness)</title>
+      <link>//localhost:51971/narrative/die-leere/</link>
+      <pubDate>Tue, 10 Jan 2023 23:13:43 -0600</pubDate>
+      <guid>//localhost:51971/narrative/die-leere/</guid>
+        <media:content url="//localhost:51971/narrative/die-leere/Badlands_hu_6f76d41d5d2b8a17.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:51971/narrative/die-leere/Badlands_hu_6f76d41d5d2b8a17.png&quot; /&gt;
+          &lt;p&gt;Video (In Collaboration with Yuto Ohashi and Cudighi Records) - 2019 &lt;br&gt; Featured in the 2019 Wisconsin Film Festival&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Salvation</title>
+      <link>//localhost:51971/narrative/salvation/</link>
+      <pubDate>Tue, 10 Jan 2023 23:13:43 -0600</pubDate>
+      <guid>//localhost:51971/narrative/salvation/</guid>
+        <media:content url="//localhost:51971/narrative/salvation/salvation%20screenshot_hu_2c1325d7520f266b.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:51971/narrative/salvation/salvation%20screenshot_hu_2c1325d7520f266b.png&quot; /&gt;
+          &lt;p&gt;Narrative Video - 2020 &lt;br&gt; Featured in the 2020 Wisconsin Film Festival&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
